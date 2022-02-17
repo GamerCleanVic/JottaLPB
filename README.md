@@ -7,4 +7,13 @@ SOBRE MIM
 
 <p>NOSSAS OUTRAS REDES SOCIAIS:</p> <pre style="background-color:lightgreen; color:darkgreen;"><button style="height:25px; width:90px; background-color:darkgreen; color:lightgreen;"><a href="https://twitch.tv/jottalpb" target="_blank">BLOG</a></button></pre>
 
-<input type="submit" value="Submit">
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+</head>
+<body>
+dfgdgdfgd
+</body>
+</html>
