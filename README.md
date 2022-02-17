@@ -7,7 +7,6 @@ width:90px;
 background-color:darkgreen;
 color:lightgreen;
   }
-a
 pre{
 background-color:lightgreen;
 color:darkgreen;
