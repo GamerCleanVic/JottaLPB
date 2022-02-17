@@ -6,3 +6,5 @@ SOBRE MIM
 <p>VOCÊ PODE ME ENCONTRAR EM LIVES CLICANDO NESTE BOTÃO: </p> <pre style="background-color:lightgreen; color:darkgreen;"><button style="height:25px; width:90px; background-color:darkgreen; color:lightgreen;"><a href="https://twitch.tv/jottalpb" target="_blank">TWITCH TV</a></button></pre>
 
 <p>NOSSAS OUTRAS REDES SOCIAIS:</p> <pre style="background-color:lightgreen; color:darkgreen;"><button style="height:25px; width:90px; background-color:darkgreen; color:lightgreen;"><a href="https://twitch.tv/jottalpb" target="_blank">BLOG</a></button></pre>
+
+<input type="submit" value="Submit">
