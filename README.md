@@ -1,4 +1,5 @@
 # JOTTALPB
+<pre><h3>VOCẼ PODE NOS ENCONTRAR NOSSAS EM NOSSOS CONTATOS CLICANDO NOS BOTÕES ABAIXO</h3></pre><br />
 [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/TwitchGH.png)](https://twitch.tv/jottalpb) [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/TwitterGH2.png)](https://twitter.com/JottaLPB) [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/FaceGH.png)](https://www.facebook.com/JOTTALPB) [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/ytGH.png)](https://www.youtube.com/channel/UCd52qMJ2L7jBWqrcxmqUiZg/videos) [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/RedesGH.png)](https://jottalpb.blogspot.com/p/redes-sociais.html) [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/DonatesGH.png)](https://jottalpb.blogspot.com/p/donate.html)
 
 ## OLÁ EU SOU JONAS!
@@ -14,4 +15,4 @@
 
 <p>VOCÊ PODE ME ENCONTRAR EM LIVES CLICANDO NESTE BOTÃO: </p><pre><a href="https://twitch.tv/jottalpb" target="_blank">TWITCH TV</a></pre>
 
-<p>NOSSAS OUTRAS REDES SOCIAIS: </p><pre><a href="https://jottalpb.blogspot.com/p/redes-sociais.html" target="_blank">REDES SOCIAIS</a></pre>
+
