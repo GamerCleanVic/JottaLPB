@@ -7,7 +7,7 @@
 
 - :computer: SOU DESIGN GRÁFICO INTERMEDIÁRIO! -->
 
-<div><pre align="center" display="inline-block">
+<div><pre align="center" display="block">
 <a href="https://twitch.tv/jottalpb" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/TwitchGH.png" /></a>
 <a href="https://twitter.com/JottaLPB" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/TwitterGH2.png" /></a>
 <a href="https://www.facebook.com/JOTTALPB" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/FaceGH.png" /></a>
