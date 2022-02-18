@@ -5,6 +5,12 @@
 
 - :computer: SOU DESIGN GRÁFICO INTERMEDIÁRIO!
 
+<div>
+<img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png" />
+<a href="https://twitch.tv/jottalpb" target="_blank"></a>
+<div><h3>TWITCH TV</h3></div>
+</div>
+
 
 <h3 align="justify">OLÁ, CHAMO-ME JONAS, SOU EX SERVENTE DE PEDREIRO E CAPINADOR DE QUINTAL. HOJE ESTUDO DESIGN GRÁFICO, FRONTEND WEB, PHP E JAVASCRIPT. FUTURAMENTE PRETENDO ESTUDAR TAMBÉM BANCO DE DADOS, LÓGICA DE PROGRAMAÇÃO E ALGORITMOS COM PHP E JAVASCRIPT.</h3><br />
 
