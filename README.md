@@ -7,13 +7,13 @@
 
 - :computer: SOU DESIGN GRÁFICO INTERMEDIÁRIO! -->
 
-<div><pre align-content="space-between">
+<div>
 <a href="https://twitch.tv/jottalpb" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/TwitchGH.png" /></a>
 <a href="https://twitter.com/JottaLPB" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/TwitterGH2.png" /></a>
 <a href="https://www.facebook.com/JOTTALPB" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/FaceGH.png" /></a>
 <a href="https://www.youtube.com/channel/UCd52qMJ2L7jBWqrcxmqUiZg/videos" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/ytGH.png" /></a>
 <a href="https://jottalpb.blogspot.com/p/redes-sociais.html" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/RedesGH.png" /></a>
-<a href="https://jottalpb.blogspot.com/p/donate.html" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/DonatesGH.png" /></a></pre>
+<a href="https://jottalpb.blogspot.com/p/donate.html" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/DonatesGH.png" /></a>
 </div>
 
 
