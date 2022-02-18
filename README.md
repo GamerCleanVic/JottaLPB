@@ -5,10 +5,24 @@
 
 - :computer: SOU DESIGN GRÁFICO INTERMEDIÁRIO!
 
-<div>
+<style>
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+</style>
+
+<div >
 <img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png" />
 <a href="https://twitch.tv/jottalpb" target="_blank"></a>
-<div><h3>TWITCH TV</h3></div>
+<div class="centered"><h3>TWITCH TV</h3></div>
 </div>
 
 
