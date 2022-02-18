@@ -5,10 +5,8 @@
 
 - :computer: SOU DESIGN GRÁFICO INTERMEDIÁRIO!
 
-<div >
-<img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png" />
-<a href="https://twitch.tv/jottalpb" target="_blank"></a>
-<div class="centered"><h3>TWITCH TV</h3></div>
+<div>
+<a href="https://twitch.tv/jottalpb" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png" /></a>
 </div>
 
 
