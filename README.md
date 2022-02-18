@@ -1,23 +1,9 @@
 # JOTTALPB
-<!-- [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png)](https://twitch.tv/jottalpb) [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png)](https://jottalpb.blogspot.com/p/redes-sociais.html) -->
+[![alt TWITCH TV](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png)](https://twitch.tv/jottalpb) [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png)](https://jottalpb.blogspot.com/p/redes-sociais.html)
 
 ## OLÁ EU SOU JONAS!
 
 - :computer: SOU DESIGN GRÁFICO INTERMEDIÁRIO!
-
-<style>
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-</style>
 
 <div >
 <img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png" />
