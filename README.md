@@ -1,5 +1,5 @@
 # JOTTALPB 
-<h1>SOBRE MIM [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png)](https://twitch.tv/jottalpb) [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png)](https://jottalpb.blogspot.com/p/redes-sociais.html)</h1>
+SOBRE MIM [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png)](https://twitch.tv/jottalpb) [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png)](https://jottalpb.blogspot.com/p/redes-sociais.html)
 
 
 
