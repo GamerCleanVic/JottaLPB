@@ -1,7 +1,7 @@
 # JOTTALPB
-[![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png)](https://twitch.tv/jottalpb) [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png)](https://jottalpb.blogspot.com/p/redes-sociais.html)
+<!-- [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png)](https://twitch.tv/jottalpb) [![](https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/bt1gh.png)](https://jottalpb.blogspot.com/p/redes-sociais.html) -->
 
-
+## OLÁ EU SOU (JONAS)!
 
 
 <h3 align="justify">OLÁ, CHAMO-ME JONAS, SOU EX SERVENTE DE PEDREIRO E CAPINADOR DE QUINTAL. HOJE ESTUDO DESIGN GRÁFICO, FRONTEND WEB, PHP E JAVASCRIPT. FUTURAMENTE PRETENDO ESTUDAR TAMBÉM BANCO DE DADOS, LÓGICA DE PROGRAMAÇÃO E ALGORITMOS COM PHP E JAVASCRIPT.</h3><br />
